@@ -2,3 +2,5 @@ fastapi
 uvicorn
 undetected-chromedriver
 selenium
+pymysql
+cryptography
